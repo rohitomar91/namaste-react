@@ -1,0 +1,1553 @@
+{
+  "cards": [
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "464266",
+        "name": "Leon's - Burgers & Wings (Leon Grill)",
+        "uuid": "1ee1e1b1-6695-493e-a904-c26242700dfd",
+        "city": "1",
+        "area": "KR Puram",
+        "totalRatingsString": "5000+ ratings",
+        "cloudinaryImageId": "ceh7zktfjmbka4eo9wzk",
+        "cuisines": [
+          "American",
+          "Snacks",
+          "Turkish",
+          "Portuguese",
+          "Continental"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 17,
+        "minDeliveryTime": 17,
+        "maxDeliveryTime": 17,
+        "slaString": "17 MINS",
+        "lastMileTravel": 2.9000000953674316,
+        "slugs": {
+          "restaurant": "leon-grill-battarahalli-battarahalli-2",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "No. 39 K, No. 115/65 Hoodi main road, Ayyappanagar, KR Puram, Bangalore.  560036",
+        "locality": "Ayyappanagar",
+        "parentId": 371281,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "distance",
+              "fee": 3300,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3300,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3300",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7152175~p=4~eid=00000188-d4f8-980f-018f-6857000f044d~srvts=1687200241679",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2.9 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "464266",
+          "deliveryTime": 17,
+          "minDeliveryTime": 17,
+          "maxDeliveryTime": 17,
+          "lastMileTravel": 2.9000000953674316,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.0",
+        "totalRatings": 5000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "246128",
+        "name": "Hotel Empire",
+        "uuid": "e2f6602d-6105-47ed-8de5-cf28d0495851",
+        "city": "1",
+        "area": "Mahadevpura",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "visisdwdnhzflxgsjpvl",
+        "cuisines": ["North Indian", "Kebabs", "Biryani"],
+        "tags": [],
+        "costForTwo": 25000,
+        "costForTwoString": "₹250 FOR TWO",
+        "deliveryTime": 31,
+        "minDeliveryTime": 31,
+        "maxDeliveryTime": 31,
+        "slaString": "31 MINS",
+        "lastMileTravel": 6.900000095367432,
+        "slugs": {
+          "restaurant": "empire-mahadevpura-mahadevpura",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "Trifecta Adatto, 21, ITPL Main Rd, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka 560048, India",
+        "locality": "Garudachar Palya",
+        "parentId": 475,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 7600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 7600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "7600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "6.9 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "10% OFF",
+          "subHeader": "UPTO ₹40",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "246128",
+          "deliveryTime": 31,
+          "minDeliveryTime": 31,
+          "maxDeliveryTime": 31,
+          "lastMileTravel": 6.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "3.9",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "78138",
+        "name": "Imperio Restaurant",
+        "uuid": "7251486d-55a6-4ca0-ac99-e1e6cd4a7834",
+        "city": "1",
+        "area": "Marathahalli",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "a1629b9c7f59577a55411e94425c6d99",
+        "cuisines": [
+          "Chinese",
+          "South Indian",
+          "North Indian",
+          "Desserts",
+          "Kerala",
+          "Andhra",
+          "Beverages",
+          "Mughlai",
+          "Seafood",
+          "Punjabi",
+          "Hyderabadi",
+          "Thai"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 36,
+        "minDeliveryTime": 36,
+        "maxDeliveryTime": 36,
+        "slaString": "36 MINS",
+        "lastMileTravel": 9.699999809265137,
+        "slugs": {
+          "restaurant": "imperio-restaurant-whitefield-whitefield-3",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "3A, squre plaza,ground floor, itpl main road,Kundalahalli,banglore.",
+        "locality": "kundalahalli",
+        "parentId": 5610,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "distance",
+              "fee": 11600,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 11600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "11600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 1,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "9.6 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "78138",
+          "deliveryTime": 36,
+          "minDeliveryTime": 36,
+          "maxDeliveryTime": 36,
+          "lastMileTravel": 9.699999809265137,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "IT_IS_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "3.9",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "679413",
+        "name": "Easy Bites By Empire",
+        "uuid": "8d2e1ef9-778f-488d-9cc4-d55c3d066270",
+        "city": "1",
+        "area": "Mahadevpura",
+        "totalRatingsString": "500+ ratings",
+        "cloudinaryImageId": "3607a6af73ba20341a09eaf46a111f52",
+        "cuisines": ["Snacks", "Fast Food", "Beverages"],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 29,
+        "minDeliveryTime": 29,
+        "maxDeliveryTime": 29,
+        "slaString": "29 MINS",
+        "lastMileTravel": 6.900000095367432,
+        "slugs": {
+          "restaurant": "easy-bites-by-empire-mahadevpura-mahadevpura",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "MUNICIPAL NO.53/2, SL NO.319, DODDAKANNELLI VILLAGE, VARTHUR HOBLI, BANGALORE., Mahadevapura , B.B.M.P East, Karnataka, 560035",
+        "locality": "Varthur",
+        "parentId": 393168,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "distance",
+              "fee": 7600,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 7600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "7600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "6.9 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "10% OFF",
+          "subHeader": "UPTO ₹40",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "679413",
+          "deliveryTime": 29,
+          "minDeliveryTime": 29,
+          "maxDeliveryTime": 29,
+          "lastMileTravel": 6.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.1",
+        "totalRatings": 500,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "657421",
+        "name": "McDonald's",
+        "uuid": "ddbe9cb8-bf0c-4790-ac10-6dec9ef07840",
+        "city": "1",
+        "area": "Marathahalli",
+        "totalRatingsString": "500+ ratings",
+        "cloudinaryImageId": "ee5f8e06b300efc07c9fe3f4df40dfc4",
+        "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+        "tags": [],
+        "costForTwo": 40000,
+        "costForTwoString": "₹400 FOR TWO",
+        "deliveryTime": 33,
+        "minDeliveryTime": 33,
+        "maxDeliveryTime": 33,
+        "slaString": "33 MINS",
+        "lastMileTravel": 8.699999809265137,
+        "slugs": {
+          "restaurant": "mcdonalds-doddanekundi-bellandur-sarjapur",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "McDonalds Family Restaurants,Survey No. 7, Khatha No.2894, Doddanekundi Village, Marathahalli, Varthur Hobli, Bangalore East Taluk, PIN-560037",
+        "locality": "Doddanekundi",
+        "parentId": 630,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "distance",
+              "fee": 10100,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 10100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "10100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "8.6 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "657421",
+          "deliveryTime": 33,
+          "minDeliveryTime": 33,
+          "maxDeliveryTime": 33,
+          "lastMileTravel": 8.699999809265137,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.1",
+        "totalRatings": 500,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "335190",
+        "name": "IFC",
+        "uuid": "a2d58739-6fb8-4400-be30-38a556412db8",
+        "city": "1",
+        "area": "Marathahalli",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "mzxjbvrkqvuckly3vhzu",
+        "cuisines": ["Fast Food", "Beverages"],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 39,
+        "minDeliveryTime": 39,
+        "maxDeliveryTime": 39,
+        "slaString": "39 MINS",
+        "lastMileTravel": 9.699999809265137,
+        "slugs": {
+          "restaurant": "ifc-marathahalli-marathahalli",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "ITPL Main Rd, AECS Layout, Brookefield, Bengaluru, Karnataka 560037",
+        "locality": "AECS Layout",
+        "parentId": 11820,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "distance",
+              "fee": 11600,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 11600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "11600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7153997~p=7~eid=00000188-d4f8-980f-018f-6858000f077f~srvts=1687200241679",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "9.6 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "335190",
+          "deliveryTime": 39,
+          "minDeliveryTime": 39,
+          "maxDeliveryTime": 39,
+          "lastMileTravel": 9.699999809265137,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.1",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "573392",
+        "name": "Burger King",
+        "uuid": "978bfd80-9c56-486c-8eb0-f27e95cc30e1",
+        "city": "1",
+        "area": "Ramamurthy nagar",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+        "cuisines": ["American"],
+        "tags": [],
+        "costForTwo": 35000,
+        "costForTwoString": "₹350 FOR TWO",
+        "deliveryTime": 26,
+        "minDeliveryTime": 26,
+        "maxDeliveryTime": 26,
+        "slaString": "26 MINS",
+        "lastMileTravel": 3.5999999046325684,
+        "slugs": {
+          "restaurant": "burger-king-tc-palya-ramamurthy-nagar",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "Ground & First Floor, No 14, 11th main, TC Palya Main road, Akshay Nagar, Aneppa Circle, Rammurthy Nagar, Bangalore-560016",
+        "locality": "TC Palya",
+        "parentId": 166,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "3.5 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "573392",
+          "deliveryTime": 26,
+          "minDeliveryTime": 26,
+          "maxDeliveryTime": 26,
+          "lastMileTravel": 3.5999999046325684,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.0",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "559758",
+        "name": "Olio - The Wood Fired Pizzeria",
+        "uuid": "d2e61be3-42f2-449f-a838-c2d05b142919",
+        "city": "1",
+        "area": "Whitefield",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "q92wx1p0qfu1uxartwxm",
+        "cuisines": ["Pizzas", "Italian"],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 41,
+        "minDeliveryTime": 41,
+        "maxDeliveryTime": 41,
+        "slaString": "41 MINS",
+        "lastMileTravel": 6.900000095367432,
+        "slugs": {
+          "restaurant": "olio-the-wood-fired-pizzeria-graphite-main-road-mahadevpura",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "SRI VINAYAKA TECH PARK,KHATA NO 101/267,268/11,GROUND FLOOR,GRAPHITE MAIN ROAD,HOODI VILLAGE,KR PURAM BBMP EAST, Mahadevapura , B.B.M.P East",
+        "locality": "Hoodi",
+        "parentId": 11633,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 7600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 7600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "7600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7115113~p=13~eid=00000188-d4f8-980f-018f-685a000f0d4d~srvts=1687200241679",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "6.9 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹249",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "559758",
+          "deliveryTime": 41,
+          "minDeliveryTime": 41,
+          "maxDeliveryTime": 41,
+          "lastMileTravel": 6.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.0",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "515199",
+        "name": "Rollsking",
+        "uuid": "a537cf1f-597c-4bb9-897b-9d50de6222bb",
+        "city": "1",
+        "area": "Whitefield",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "k0mudzgzishlt9cawpwo",
+        "cuisines": ["North Indian", "Fast Food", "Beverages"],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 26,
+        "minDeliveryTime": 26,
+        "maxDeliveryTime": 26,
+        "slaString": "26 MINS",
+        "lastMileTravel": 6.900000095367432,
+        "slugs": {
+          "restaurant": "rolls-king-mahadevpura-mahadevpura",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "MUNICIPAL NO.66/2, 67/1, GARUDACHARPALYA, WHITEFIELD MAIN ROAD, BANGALORE., Mahadevapura , B.B.M.P East, Karnataka-560048",
+        "locality": "Garudacharpalya",
+        "parentId": 4697,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "distance",
+              "fee": 7600,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 7600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "7600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "6.9 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹249",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "515199",
+          "deliveryTime": 26,
+          "minDeliveryTime": 26,
+          "maxDeliveryTime": 26,
+          "lastMileTravel": 6.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.0",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "13703",
+        "name": "Pizza Hut",
+        "uuid": "9fbefe20-0a46-4519-b449-1da9089f1b2c",
+        "city": "1",
+        "area": "CV Raman Nagar",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+        "cuisines": ["Pizzas"],
+        "tags": [],
+        "costForTwo": 35000,
+        "costForTwoString": "₹350 FOR TWO",
+        "deliveryTime": 32,
+        "minDeliveryTime": 32,
+        "maxDeliveryTime": 32,
+        "slaString": "32 MINS",
+        "lastMileTravel": 8.899999618530273,
+        "slugs": {
+          "restaurant": "pizza-hut-delivery-cv-ramannagar-cv-raman-nagar",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "No. 9, Versova Layout, Kaggadasapura Main Road, CV Raman Nagar, Bangalore-560075.",
+        "locality": "Kaggadasapura Main Road",
+        "parentId": 721,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 9600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 9600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "9600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "8.8 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "13703",
+          "deliveryTime": 32,
+          "minDeliveryTime": 32,
+          "maxDeliveryTime": 32,
+          "lastMileTravel": 8.899999618530273,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "3.8",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "312661",
+        "name": "Samosa Party",
+        "uuid": "551dea93-d970-420b-8c2e-0ed39f0bdc91",
+        "city": "1",
+        "area": "Whitefield",
+        "totalRatingsString": "5000+ ratings",
+        "cloudinaryImageId": "jds3xuwzylo5vpfdnziv",
+        "cuisines": [
+          "Fast Food",
+          "Snacks",
+          "Beverages",
+          "Chaat",
+          "North Indian",
+          "Street Food",
+          "Sweets",
+          "Desserts",
+          "Punjabi",
+          "Bakery"
+        ],
+        "tags": [],
+        "costForTwo": 15000,
+        "costForTwoString": "₹150 FOR TWO",
+        "deliveryTime": 29,
+        "minDeliveryTime": 29,
+        "maxDeliveryTime": 29,
+        "slaString": "29 MINS",
+        "lastMileTravel": 9.300000190734863,
+        "slugs": {
+          "restaurant": "samosa-party-whitefield-whitefield",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "NO 204, Near Treebo Peridot Shelters, SHOP NO 1, PRASHANTH EXTENSION, HOPE  FARM, WHITEFEILD, BANGALORE MAHADEVAPURA B B M P EAST KARNATAKA 560066",
+        "locality": "Whitefield",
+        "parentId": 6364,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "distance",
+              "fee": 11600,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 11600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "11600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "9.3 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "60% OFF",
+          "subHeader": "UPTO ₹120",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "312661",
+          "deliveryTime": 29,
+          "minDeliveryTime": 29,
+          "maxDeliveryTime": 29,
+          "lastMileTravel": 9.300000190734863,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.2",
+        "totalRatings": 5000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "559759",
+        "name": "Crusto's - Cheese Burst Pizza",
+        "uuid": "2612d97c-bd3d-44ee-8f77-8a0c52cb8c08",
+        "city": "1",
+        "area": "Whitefield",
+        "totalRatingsString": "500+ ratings",
+        "cloudinaryImageId": "zlevlgdv5bcgyxuse5wa",
+        "cuisines": ["Pizzas", "Italian"],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 40,
+        "minDeliveryTime": 40,
+        "maxDeliveryTime": 40,
+        "slaString": "40 MINS",
+        "lastMileTravel": 6.900000095367432,
+        "slugs": {
+          "restaurant": "crustos-cheese-burst-pizza-graphite-main-road-mahadevpura",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "SRI VINAYAKA TECH PARK,KHATA NO 101/267,268/11,GROUND FLOOR,GRAPHITE MAIN ROAD,HOODI VILLAGE,KR PURAM BBMP EAST, Mahadevapura , B.B.M.P East",
+        "locality": "Hoodi",
+        "parentId": 268955,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 7600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 7600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "7600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7115098~p=19~eid=00000188-d4f8-980f-018f-685c000f1352~srvts=1687200241679",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "6.9 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹249",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "559759",
+          "deliveryTime": 40,
+          "minDeliveryTime": 40,
+          "maxDeliveryTime": 40,
+          "lastMileTravel": 6.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.1",
+        "totalRatings": 500,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "347243",
+        "name": "KFC",
+        "uuid": "6dcc7365-f7ad-44ed-a36c-a5e0a5ee6357",
+        "city": "1",
+        "area": "Ramamurthy Nagar",
+        "totalRatingsString": "5000+ ratings",
+        "cloudinaryImageId": "56c9ab92bd79745fd152a30fa2525426",
+        "cuisines": ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+        "tags": [],
+        "costForTwo": 40000,
+        "costForTwoString": "₹400 FOR TWO",
+        "deliveryTime": 24,
+        "minDeliveryTime": 24,
+        "maxDeliveryTime": 24,
+        "slaString": "24 MINS",
+        "lastMileTravel": 5.5,
+        "slugs": {
+          "restaurant": "kfc-rammuthynagar-ramamurthy-nagar",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "NO 1, 2, & 9 formed in Property 91/1, Khata ,  No 1333, Kowdenhalli , Rammuthynagar,  KR Puram  BANGALORE East Taluk 560016",
+        "locality": "Kowdenahalli",
+        "parentId": 547,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 6600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 6600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "6600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "5.5 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "347243",
+          "deliveryTime": 24,
+          "minDeliveryTime": 24,
+          "maxDeliveryTime": 24,
+          "lastMileTravel": 5.5,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "3.9",
+        "totalRatings": 5000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "700101",
+        "name": "Rolling Fresh",
+        "uuid": "3bd48693-0c3d-4ffb-85f1-5f5d96fea08e",
+        "city": "1",
+        "area": "Mahadevpura",
+        "totalRatingsString": "50+ ratings",
+        "cloudinaryImageId": "24a9ad0bbbdd08f6aba5e9c49092abf9",
+        "cuisines": ["Indian"],
+        "tags": [],
+        "costForTwo": 50000,
+        "costForTwoString": "₹500 FOR TWO",
+        "deliveryTime": 28,
+        "minDeliveryTime": 28,
+        "maxDeliveryTime": 28,
+        "slaString": "28 MINS",
+        "lastMileTravel": 6.900000095367432,
+        "slugs": {
+          "restaurant": "rolling-fresh-mahadevpura-mahadevpura",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "MUNICIPAL NO.66/2, 67/1,  GARUDACHARPALYA, WHITEFIELD MAIN  ROAD, BANGALORE., Mahadevapura , B.B.M.P  East, Karnataka-",
+        "locality": "Whitefield Main Road",
+        "parentId": 386931,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 7600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 7600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "7600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "6.9 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "700101",
+          "deliveryTime": 28,
+          "minDeliveryTime": 28,
+          "maxDeliveryTime": 28,
+          "lastMileTravel": 6.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.0",
+        "totalRatings": 50,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "231392",
+        "name": "Chinese Chaska",
+        "uuid": "2bff9aae-3aff-4b97-a732-ac48ecd2945a",
+        "city": "1",
+        "area": "Whitefield",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "hfliyqu5fawvdcdcy6dg",
+        "cuisines": [
+          "Biryani",
+          "Chinese",
+          "North Indian",
+          "Combo",
+          "Desserts",
+          "Beverages",
+          "Tandoor"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 35,
+        "minDeliveryTime": 35,
+        "maxDeliveryTime": 35,
+        "slaString": "35 MINS",
+        "lastMileTravel": 9.5,
+        "slugs": {
+          "restaurant": "chinese-chaska-whitefield-whitefield-2",
+          "city": "bangalore"
+        },
+        "cityState": "1",
+        "address": "SY No 166, Mann Food Court, Ak Gopalan Colony Road, Near Hope Farm, Whitefield Bangalore - 560066",
+        "locality": "Ak Gopalan Colony Road",
+        "parentId": 5152,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "distance",
+              "fee": 11600,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 11600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "11600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "9.5 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "40% OFF",
+          "subHeader": "UPTO ₹80",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "231392",
+          "deliveryTime": 35,
+          "minDeliveryTime": 35,
+          "maxDeliveryTime": 35,
+          "lastMileTravel": 9.5,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "3.8",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    }
+  ]
+}
