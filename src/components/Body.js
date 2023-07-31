@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
-import RestaurantCard from "./RestaurantCard";
-import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import { useOnlineStatus } from "../hooks/useOnlineStatus";
+import RestaurantCard from "./RestaurantCard";
+import Shimmer from "./Shimmer";
 
 const Body = () => {
   const [restaurantList, setRestaurantList] = useState([]);
@@ -19,14 +19,19 @@ const Body = () => {
     );
 
     const data = await response.json();
-    const restaurantData = data?.data?.cards[2]?.data?.data?.cards;
+    const restaurantData =
+      data?.data?.cards[5]?.card?.card?.gridElements?.infoWithStyle
+        ?.restaurants;
+    console.log({ restaurantData });
     if (restaurantData && Array.isArray(restaurantData)) {
       setRestaurantList(restaurantData);
-      setFilteredRestaurantList(restaurantData);
     }
   };
-
   const onlineStatus = useOnlineStatus();
+
+  useEffect(() => {
+    setFilteredRestaurantList(restaurantList);
+  }, [restaurantList]);
 
   if (onlineStatus === false) {
     return (
@@ -38,7 +43,7 @@ const Body = () => {
 
   const handleFilter = () => {
     const filteredRestaurantList = restaurantList.filter(
-      (restaurant) => restaurant.data.avgRating > 4
+      (restaurant) => restaurant.info.avgRating > 4
     );
     setFilteredRestaurantList(filteredRestaurantList);
   };
@@ -48,9 +53,8 @@ const Body = () => {
   };
 
   const handleSearch = () => {
-    console.log(searchText);
     const filteredRestaurantList = restaurantList.filter((restaurant) =>
-      restaurant.data.name.toLowerCase().includes(searchText.toLowerCase())
+      restaurant.info.name.toLowerCase().includes(searchText.toLowerCase())
     );
     setFilteredRestaurantList(filteredRestaurantList);
   };
@@ -65,32 +69,41 @@ const Body = () => {
   }
 
   return (
-    <div className="body">
-      <div className="filter">
-        <div className="search">
+    <div className="">
+      <div className="flex">
+        <div className="m-4 p-4">
           <input
             type="text"
-            className="search-box"
+            className="border border-solid border-black"
             value={searchText}
             onChange={(e) => handleInputChange(e)}
           />
-          <button className="filter-btn" onClick={handleSearch}>
+          <button className="px-4 py-1 bg-green-100 m-4" onClick={handleSearch}>
             Search
           </button>
         </div>
-        <button className="filter-btn" onClick={handleFilter}>
-          Top Rated
-        </button>
-        <button className="filter-btn" onClick={handleReset}>
-          Reset
-        </button>
+        <div className="flex m-4 p-4 items-center gap-4">
+          <button
+            className="bg-gray-100 rounded-lg px-2 py-1"
+            onClick={handleFilter}
+          >
+            Top Rated
+          </button>
+          <button
+            className="bg-gray-100 rounded-lg px-2 py-1"
+            onClick={handleReset}
+          >
+            Reset
+          </button>
+        </div>
       </div>
-      <div className="res-container">
+      <div className="flex flex-wrap">
         {filteredRestaurantList.map((restaurant) => {
+          console.log({ restaurant });
           return (
             <Link
-              to={"/restaurants/" + restaurant.data.id}
-              key={restaurant.data.id}
+              to={"/restaurants/" + restaurant.info.id}
+              key={restaurant.info.id}
             >
               <RestaurantCard resData={restaurant} />
             </Link>
