@@ -8,7 +8,7 @@ const RestaurantCard = ({ resData }) => {
     costForTwo,
     deliveryTime,
     cloudinaryImageId,
-  } = resData?.info;
+  } = resData;
   return (
     <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg hover:shadow-lg hover:bg-gray-200">
       <img
@@ -23,6 +23,19 @@ const RestaurantCard = ({ resData }) => {
       <p>{costForTwo}</p>
     </div>
   );
+};
+
+export const withPromotedLabel = (RestaurantCard) => {
+  return (props) => {
+    return (
+      <div>
+        <label className="absolute bg-black text-white m-4 p-2 ml-8 text-xs rounded-lg">
+          Promoted
+        </label>
+        <RestaurantCard {...props} />
+      </div>
+    );
+  };
 };
 
 export default RestaurantCard;

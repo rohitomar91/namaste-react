@@ -12,7 +12,7 @@ class UserClass extends React.Component {
     return (
       <div className="user-card">
         <div>
-          <img className="user-avatar" src={avatar} />
+          <img className="my-4 user-avatar w-44 h-44" src={avatar} />
         </div>
         <div>
           <h2>Name: {name}</h2>

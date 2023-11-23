@@ -1,4 +1,5 @@
 import React from "react";
+import UserContext from "../utils/UserContext";
 import UserClass from "./UserClass";
 
 class About extends React.Component {
@@ -12,7 +13,6 @@ class About extends React.Component {
         avatar: "",
       },
     };
-    console.log("constructor");
   }
 
   async componentDidMount() {
@@ -21,24 +21,21 @@ class About extends React.Component {
     this.setState({
       user: data,
     });
-
-    console.log("component did mount");
-  }
-
-  componentDidUpdate() {
-    console.log("component did update");
-  }
-
-  componentWillUnmount() {
-    console.log("component will unmount");
   }
 
   render() {
     const { name, location, login, avatar_url } = this.state.user;
-    console.log("render");
     return (
-      <div>
+      <div className="p-4">
         <h1>About</h1>
+        <div>
+          Logged In User:
+          <UserContext.Consumer>
+            {({ loggedInUser }) => (
+              <span className="text-xl font-bold"> {loggedInUser}</span>
+            )}
+          </UserContext.Consumer>
+        </div>
         <UserClass
           name={name}
           location={location}
