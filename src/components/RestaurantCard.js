@@ -1,16 +1,13 @@
 import { CDN_URL } from "../utils/constants";
 
 const RestaurantCard = ({ resData }) => {
-  const {
-    name,
-    cuisines,
-    avgRating,
-    costForTwo,
-    deliveryTime,
-    cloudinaryImageId,
-  } = resData;
+  const { name, cuisines, avgRating, costForTwo, sla, cloudinaryImageId } =
+    resData;
   return (
-    <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg hover:shadow-lg hover:bg-gray-200">
+    <div
+      data-testid="restaurantCard"
+      className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg hover:shadow-lg hover:bg-gray-200"
+    >
       <img
         alt="res-logo"
         className="rounded-lg"
@@ -19,7 +16,7 @@ const RestaurantCard = ({ resData }) => {
       <h3 className="font-bold py-4 text-lg">{name}</h3>
       <p>{cuisines.join(", ")}</p>
       <p>{avgRating} stars</p>
-      <p>{deliveryTime} mins</p>
+      <p>{sla?.deliveryTime} mins</p>
       <p>{costForTwo}</p>
     </div>
   );

@@ -27,3 +27,22 @@
 - dispatch actions
 - Create Reducer and update store
 - Read data using selector
+
+# Types of testing (developer)
+
+- Unit testing
+- Integration testing
+- e2e testing
+
+# Setting up Testing in app
+
+- Install React Testing Library
+- Install JEST
+- Install Babel dependencies
+- Configure Babel using babel.config.js (Point to current version of node in the system)
+- Configure Parcel Config file (.parcelrc) to disable default babel transpilation
+- Jest Configuration (npx jest --init)
+- Install jsdom library
+- Install @babel/preset-react : to make JSX work in test cases
+- Include above library in babel config
+- Install @testing-library/jest-dom

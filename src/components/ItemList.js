@@ -15,14 +15,17 @@ const ItemList = ({ items }) => {
       {items.map((item) => (
         <div
           key={item?.card?.info?.id}
+          data-testid="foodItems"
           className="p-2 m-2 border-b border-gray-200 text-left flex justify-between py-6"
         >
           <div className="flex-col">
             <div className="py-2">
               <div>
-                <h3 className="font-semibold">{item?.card?.info?.name}</h3>
+                <h3 className="font-semibold" data-testid="foodItemName">
+                  {item?.card?.info?.name}
+                </h3>
               </div>
-              <div className="text-sm py-1">
+              <div className="text-sm py-1" data-testid="foodItemPrice">
                 ₹
                 {(item?.card?.info?.price
                   ? item?.card?.info?.price
