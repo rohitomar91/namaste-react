@@ -6,18 +6,20 @@ const RestaurantCard = ({ resData }) => {
   return (
     <div
       data-testid="restaurantCard"
-      className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg hover:shadow-lg hover:bg-gray-200"
+      className="m-4 w-[250px] rounded-lg hover:shadow-lg hover:bg-gray-200"
     >
       <img
         alt="res-logo"
         className="rounded-lg"
         src={CDN_URL + cloudinaryImageId}
       />
-      <h3 className="font-bold py-4 text-lg">{name}</h3>
-      <p>{cuisines.join(", ")}</p>
-      <p>{avgRating} stars</p>
-      <p>{sla?.deliveryTime} mins</p>
-      <p>{costForTwo}</p>
+      <div className="ml-3 text-base">
+        <h3 className="font-bold pt-4 pb-1 text-xl">{name}</h3>
+        <p>{cuisines.join(", ")}</p>
+        <p>{avgRating} stars</p>
+        <p>{sla?.deliveryTime} mins</p>
+        <p>{costForTwo}</p>
+      </div>
     </div>
   );
 };

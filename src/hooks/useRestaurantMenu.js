@@ -11,7 +11,9 @@ export const useRestaurantMenu = () => {
   }, []);
 
   const fetchMenu = async () => {
-    const response = await fetch(`${MENU_API_URL}${resId}`);
+    const response = await fetch(
+      `https://proxy.cors.sh/${MENU_API_URL}${resId}`
+    );
     const data = await response.json();
     setRestaurantInfo(data?.data);
   };

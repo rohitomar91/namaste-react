@@ -18,14 +18,14 @@ const RestaurantMenu = () => {
   };
 
   const { name, cuisines, costForTwoMessage } =
-    restaurantInfo?.cards[0]?.card?.card?.info;
+    restaurantInfo?.cards[2]?.card?.card?.info;
 
   const { itemCards } =
-    restaurantInfo?.cards[2]?.groupedCard?.cardGroupMap?.REGULAR?.cards[1]?.card
+    restaurantInfo?.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards[1]?.card
       ?.card;
 
   const categories =
-    restaurantInfo?.cards[2]?.groupedCard?.cardGroupMap?.REGULAR?.cards?.filter(
+    restaurantInfo?.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards?.filter(
       (card) =>
         card?.card?.card?.["@type"] ===
         "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory"
